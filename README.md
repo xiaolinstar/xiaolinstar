@@ -3,6 +3,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=646cff&height=140&section=header&text=AI持续运维&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=xingxiaolin · SRE · DevOps · AI&descSize=16&descAlignY=58&descAlign=50"/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xiaolinstar/xiaolinstar/main/assets/sparrow.svg" width="96" alt="AI持续运维 Logo"/>
+</p>
+
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=646CFF&center=true&vCenter=true&width=620&lines=SRE+%26+DevOps+Practice;Vibe+Coding+%26+Agent+Skills;Building+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
@@ -48,7 +52,7 @@ philosophy: 不积跬步，无以至千里
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Cursor-111111?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Cursor"/>
 </p>
 
 ---
@@ -75,9 +79,9 @@ philosophy: 不积跬步，无以至千里
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaolinstar/xiaolinstar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaolinstar/xiaolinstar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xiaolinstar/xiaolinstar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaolinstar/xiaolinstar/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaolinstar/xiaolinstar/main/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xiaolinstar/xiaolinstar/main/dist/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ---
