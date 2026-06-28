@@ -1,10 +1,10 @@
 <!-- Profile README · 模板参考：minimal developer + github-readme-stats -->
 <!-- 灵感来源：https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=646cff&height=140&section=header&text=AI持续运维&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=xingxiaolin · SRE · DevOps · AI&descSize=16&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=646cff&height=140&section=header&text=AI%E6%8C%81%E7%BB%AD%E8%BF%90%E7%BB%B4&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=xingxiaolin%20%C2%B7%20SRE%20%C2%B7%20DevOps%20%C2%B7%20AI&descSize=16&descAlignY=58&descAlign=50"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiaolinstar/xiaolinstar/main/assets/sparrow.svg" width="96" alt="AI持续运维 Logo"/>
+  <img src="./assets/sparrow.svg" width="96" alt="AI持续运维 Logo"/>
 </p>
 
 <h3 align="center">
@@ -14,9 +14,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://xiaolinstar.cn"><img src="https://img.shields.io/badge/站点-xiaolinstar.cn-646cff?style=for-the-badge" alt="site"/></a>
-  <a href="https://github.com/xiaolinstar/xiaolin-docs"><img src="https://img.shields.io/badge/知识库-xiaolin--docs-111?style=for-the-badge&logo=github" alt="docs"/></a>
-  <img src="https://img.shields.io/badge/公众号-AI持续运维-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="wechat"/>
+  <a href="https://xiaolinstar.cn"><img src="https://img.shields.io/badge/Site-xiaolinstar.cn-646cff?style=for-the-badge" alt="site"/></a>
+  <a href="https://github.com/xiaolinstar/xiaolin-docs"><img src="https://img.shields.io/badge/Docs-xiaolin--docs-111?style=for-the-badge&logo=github" alt="docs"/></a>
+  <img src="https://img.shields.io/badge/WeChat-AI%20Ops-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="wechat"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@ philosophy: 不积跬步，无以至千里
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=xiaolinstar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=646cff&icon_color=646cff&text_color=c9d1d9&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaolinstar&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363d&ring=646cff&fire=646cff&currStreakLabel=646cff&sideLabels=646cff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=xiaolinstar&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363d&ring=646cff&fire=646cff&currStreakLabel=646cff&sideLabels=646cff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
 </p>
 
 <p align="center">
@@ -79,9 +79,9 @@ philosophy: 不积跬步，无以至千里
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaolinstar/xiaolinstar/main/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaolinstar/xiaolinstar/main/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xiaolinstar/xiaolinstar/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="./dist/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ---
@@ -89,9 +89,9 @@ philosophy: 不积跬步，无以至千里
 ### 📫 Connect
 
 <p align="left">
-  <a href="https://xiaolinstar.cn/about/"><img src="https://img.shields.io/badge/联系合作-xiaolinstar.cn-646cff?style=flat-square" alt="contact"/></a>
+  <a href="https://xiaolinstar.cn/about/"><img src="https://img.shields.io/badge/Contact-xiaolinstar.cn-646cff?style=flat-square" alt="contact"/></a>
   <a href="mailto:xing.xiaolin@foxmail.com"><img src="https://img.shields.io/badge/Email-xing.xiaolin@foxmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://github.com/xiaolinstar"><img src="https://img.shields.io/badge/GitHub-xiaolinstar-181717?style=flat-square&logo=github" alt="github"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=646cff&height=80&section=footer&text=不积跬步，无以至千里&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=646cff&height=80&section=footer&text=%E4%B8%8D%E7%A7%AF%E8%B7%AC%E6%AD%A5%EF%BC%8C%E6%97%A0%E4%BB%A5%E8%87%B3%E5%8D%83%E9%87%8C&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
